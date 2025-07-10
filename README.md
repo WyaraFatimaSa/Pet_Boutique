@@ -18,5 +18,4 @@ HTML5, CSS3, Bootstrap 5, JavaScript
 ## Como executar
 
 1. Clone o repositório:
-```bash
-git clone [https://thiagosousadevjs.github.io/pet-shop/)](https://thiagosousadevjs.github.io/pet-shop/)
+https://thiago20971.github.io/pet-shop/
