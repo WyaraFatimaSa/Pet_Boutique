@@ -21,15 +21,6 @@ body {
   background-color: #7b5ea6;
   padding: 0.5rem 1rem;
   z-index: 1050;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.navbar-brand {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
 }
 
 .navbar-brand img {
@@ -43,18 +34,11 @@ body {
   color: white;
 }
 
-.navbar-nav {
-  list-style: none;
-  display: flex;
-  gap: 1rem;
-}
-
 .navbar-nav .nav-link {
   color: #fff;
   font-weight: 600;
   transition: color 0.3s;
   font-size: 1rem;
-  text-decoration: none;
 }
 
 .navbar-nav .nav-link:hover,
@@ -112,18 +96,6 @@ body {
   z-index: 1;
 }
 
-.video-background {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: -1;
-  object-fit: cover;
-}
-
 .banner-content {
   position: relative;
   z-index: 2;
@@ -150,8 +122,6 @@ body {
   background-color: rgb(60, 24, 78);
   border: none;
   transition: background-color 0.3s;
-  color: white;
-  text-decoration: none;
 }
 
 .banner-content .btn-primary:hover {
@@ -193,7 +163,16 @@ body {
   max-width: 450px;
 }
 
-/* Adicione estilos para o rodapé */
+.video-explicativo {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.video-explicativo video {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
 
 .rodape {
   text-align: center;
@@ -203,4 +182,5 @@ body {
   font-weight: 600;
   font-size: 0.9rem;
 }
+
 
