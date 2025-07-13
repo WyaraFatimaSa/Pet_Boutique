@@ -17,5 +17,4 @@ HTML5, CSS3, Bootstrap 5, JavaScript
 
 ## Como executar
 
-1. Clone o repositório:
-https://thiago20971.github.io/pet-shop/
+https://wyarafatimasa.github.io/Pet_Boutique/
