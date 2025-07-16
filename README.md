@@ -1,20 +1,38 @@
 # Pet_Boutique
 Trabalho de implementação de melhorias em site.
-# Projeto Pet Boutique
+# Pet Boutique
 
-Site da Pet Boutique, loja especializada em produtos para cães e gatos, focado em estilo e elegância.
+Projeto front-end de uma loja virtual especializada em produtos para cães e gatos, com foco em estilo, elegância e experiência do usuário.
+
+---
+
+## Sobre o Projeto
+
+Este projeto consiste na implementação de melhorias visuais e funcionais no site da Pet Boutique, visando maior usabilidade, acessibilidade e responsividade.
+
+---
 
 ## Melhorias realizadas
 
-- Inserção de vídeo explicativo sobre o site
-- Implementação de design responsivo usando Bootstrap 5
-- Inclusão de recursos de acessibilidade, como controle de tamanho da fonte
-- Melhorias visuais para maior usabilidade
+- Inserção de vídeo explicativo para apresentar a loja aos visitantes  
+- Design responsivo implementado com Bootstrap 5, garantindo boa visualização em dispositivos móveis e desktops  
+- Inclusão de recursos de acessibilidade, como controle dinâmico do tamanho da fonte  
+- Otimizações visuais para melhorar a experiência do usuário
+
+---
 
 ## Tecnologias utilizadas
 
-HTML5, CSS3, Bootstrap 5, JavaScript
+- HTML5  
+- CSS3  
+- Bootstrap 5  
+- JavaScript
 
-## Como executar
+---
 
-https://wyarafatimasa.github.io/Pet_Boutique/
+## Como executar o projeto localmente
+
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/WyaraFatimaSa/Pet_Boutique.git
+
